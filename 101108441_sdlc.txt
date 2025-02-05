@@ -1,0 +1,1 @@
+## DevOps practices like Continuous Integration and Continuous Delivery (CI/CD) automate the build, test, and deployment processes ##
