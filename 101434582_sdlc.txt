@@ -1,0 +1,1 @@
+Learning DevOps is crucial in the software development lifecycle (SDLC) as it enhances efficiency, reliability, and speed in software delivery.
