@@ -1,1 +1,1 @@
-## COMP 2156 - DevOps is a course designed to introduce students to the principles, practices, and tools of DevOps. ##
+COMP 2156 - DevOps is a course designed to introduce students to the principles, practices, and tools of DevOps.
