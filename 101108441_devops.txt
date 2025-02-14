@@ -1,1 +1,6 @@
 ##Devops is a course offered at GBC##
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). 
+It aims to shorten the software development life cycle and provide continuous delivery with high quality. 
+DevOps emphasizes automation, collaboration, continuous integration, and continuous delivery (CI/CD). 
+It helps organizations to release software faster, more reliably, and with greater efficiency.  
+Key aspects of DevOps include infrastructure as code, configuration management, monitoring, and logging.
