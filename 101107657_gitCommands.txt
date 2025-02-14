@@ -1,0 +1,18 @@
+Create a new branch: git branch <branch-name>
+Switch to a branch: git checkout <branch-name>
+Create and switch to a new branch: git checkout -b <branch-name>
+List all branches: git branch
+Delete a branch: git branch -d <branch-name>
+Merge a branch into the current branch: git merge <branch-name>
+Rebase the current branch onto another branch: git rebase <branch-name>
+View commit history: git log
+View a simplified commit history: git log --oneline
+View changes between commits: git diff <commit-hash-1> <commit-hash-2>
+Unstage a file (keep changes in the working directory): git reset <file-name>
+Revert changes in a file (discard changes in the working directory): git checkout -- <file-name>
+Amend the last commit: git commit --amend
+Revert a commit (create a new commit that undoes changes): git revert <commit-hash>
+Add a remote repository: git remote add origin <repository-url>
+View remote repositories: git remote -v
+Remove a remote repository: git remote remove origin
+Fetch changes from a remote repository (without merging):  git fetch origin
