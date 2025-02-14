@@ -1,0 +1,2 @@
+Through this group assignment I have learned to create my repository and create add commit and push files 
+to my gitHub account through gitBash and Visual studio.
