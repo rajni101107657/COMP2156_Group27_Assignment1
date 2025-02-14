@@ -1,5 +1,5 @@
 # COMP2156_Group27_Assignment1
-# COMP2156_Group27_Assignment1
+
 ## Group Members
 **Member 1** Rajni Dhaka (101107657)-[GitHub]-(https://github.com/rajni101107657/COMP2156_Group27_Assignment1)
 **Member 2** Anuraag Motilal Sahu (101541082)-[GitHub]-(https://github.com/anuraag101541082)
