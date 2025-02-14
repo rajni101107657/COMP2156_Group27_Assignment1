@@ -1,9 +1,13 @@
 # COMP2156_Group27_Assignment1
 ## Group Members
-**Member 1** Rajni Dhaka (101107657)-[GitHub]-(https://github.com/rajni101107657/COMP2156_Group27_Assignment1)
-**Member 2** Anuraag Motilal Sahu (101541082)-[GitHub]-(https://github.com/anuraag101541082)
-**Member 3** Mahesh Dhaka (101108441)-[GitHub]-(https://github.com/mahesh101108441)
-**Member 4** Jermaine Zarate (101434582)-[GitHub]-(https://github.com/Jezzzzy)
+**Member 1**    Rajni Dhaka (101107657)-[GitHub]-(https://github.com/rajni101107657/COMP2156_Group27_Assignment1)
+
+**Member 2**    Anuraag Motilal Sahu (101541082)-[GitHub]-(https://github.com/anuraag101541082)
+
+**Member 3**    Mahesh Dhaka (101108441)-[GitHub]-(https://github.com/mahesh101108441)
+
+**Member 4**    Jermaine Zarate (101434582)-[GitHub]-(https://github.com/Jezzzzy)
+
 **Member 5** 
 **Member 6** 
 
