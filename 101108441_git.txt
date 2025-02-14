@@ -1,1 +1,31 @@
 This file has basic information about Git commands
+Set your username: git config --global user.name "Your Name"
+Set your email: git config --global user.email "your.email@example.com"
+Check your Git configuration: git config --list
+Initialize a new Git repository: git init
+Clone an existing repository: git clone <repository-url>
+Check the status of your repository: git status
+Stage a file (add it to the next commit): git add <file-name>
+Stage all changes: git add example.txt OR git add .
+Commit changes (create a snapshot):  git commit -m "Your commit message"
+Push changes to a remote repository: git push origin <branch-name>
+Pull the latest changes from a remote repository:  git pull origin <branch-name>
+Create a new branch: git branch <branch-name>
+Switch to a branch: git checkout <branch-name>
+Create and switch to a new branch: git checkout -b <branch-name>
+List all branches: git branch
+Delete a branch: git branch -d <branch-name>
+Merge a branch into the current branch: git merge <branch-name>
+Rebase the current branch onto another branch: git rebase <branch-name>
+View commit history: git log
+View a simplified commit history: git log --oneline
+View changes between commits: git diff <commit-hash-1> <commit-hash-2>
+Unstage a file (keep changes in the working directory): git reset <file-name>
+Revert changes in a file (discard changes in the working directory): git checkout -- <file-name>
+Amend the last commit: git commit --amend
+Revert a commit (create a new commit that undoes changes): git revert <commit-hash>
+Add a remote repository: git remote add origin <repository-url>
+View remote repositories: git remote -v
+Remove a remote repository: git remote remove origin
+Fetch changes from a remote repository (without merging):  git fetch origin
+
