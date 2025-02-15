@@ -8,3 +8,11 @@ V-shaped: A model that emphasizes testing and validation in a sequential process
 Lean: A model that focuses on increasing efficiency throughout the development process 
 Big Bang: An informal, unstructured model that doesn't involve much planning 
 Incremental: A variation of the waterfall model that divides project requirements into groups 
+SDLC phases: 
+Project planning
+Gathering requirements and analysis
+Design
+Coding or implementation
+Testing
+Deployment
+Maintenance
