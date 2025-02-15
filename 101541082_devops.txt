@@ -1,1 +1,8 @@
 DevOps is a set of practices and tools that combines software development and IT operations. It's a cultural philosophy that encourages collaboration and automation to improve the speed and quality of software delivery. 
+How DevOps works
+Collaboration
+DevOps teams work together to eliminate roadblocks and improve how they create, deploy, and monitor software. 
+Automation
+DevOps uses technology to automate processes that were previously manual and slow. 
+Integration
+DevOps integrates the work of development and operations teams into a single, continuous process. 
