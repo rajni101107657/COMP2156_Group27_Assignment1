@@ -6,3 +6,7 @@ Automation
 DevOps uses technology to automate processes that were previously manual and slow. 
 Integration
 DevOps integrates the work of development and operations teams into a single, continuous process. 
+Benefits of DevOps
+Faster delivery: DevOps helps organizations deliver applications and services faster than traditional software development processes. 
+Improved quality: DevOps helps organizations build, test, and release software that is more reliable. 
+Better communication: DevOps encourages better communication and collaboration between teams...
