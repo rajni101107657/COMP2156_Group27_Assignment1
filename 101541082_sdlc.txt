@@ -1,0 +1,2 @@
+SDLC methodology is a process that software development teams use to design and build software. SDLC stands for Software Development Life Cycle. 
+The goal of SDLC is to create high-quality software that meets customer expectations. SDLC methodologies help development teams plan, organize, and track tasks, and identify potential risks. 
