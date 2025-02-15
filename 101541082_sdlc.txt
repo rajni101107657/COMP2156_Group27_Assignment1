@@ -1,2 +1,10 @@
 SDLC methodology is a process that software development teams use to design and build software. SDLC stands for Software Development Life Cycle. 
 The goal of SDLC is to create high-quality software that meets customer expectations. SDLC methodologies help development teams plan, organize, and track tasks, and identify potential risks. 
+Popular SDLC methodologies:
+Agile: A flexible, adaptable process that focuses on collaboration and change 
+Iterative: A model that emphasizes incremental progress and continuous feedback 
+Spiral: A model that combines the iterative and waterfall models 
+V-shaped: A model that emphasizes testing and validation in a sequential process 
+Lean: A model that focuses on increasing efficiency throughout the development process 
+Big Bang: An informal, unstructured model that doesn't involve much planning 
+Incremental: A variation of the waterfall model that divides project requirements into groups 
