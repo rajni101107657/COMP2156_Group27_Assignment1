@@ -1,1 +1,2 @@
 Welcome to Dev Ops!
+The COMP 3104 – DevOps course is a key component of George Brown College's three-year Computer Programming and Analysis advanced diploma program (T177).
