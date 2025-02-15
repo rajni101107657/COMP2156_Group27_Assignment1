@@ -10,3 +10,5 @@ Benefits of DevOps
 Faster delivery: DevOps helps organizations deliver applications and services faster than traditional software development processes. 
 Improved quality: DevOps helps organizations build, test, and release software that is more reliable. 
 Better communication: DevOps encourages better communication and collaboration between teams...
+DevOps history
+The DevOps movement began around 2007 when the software development and IT operations communities started to question the traditional software development model. 
