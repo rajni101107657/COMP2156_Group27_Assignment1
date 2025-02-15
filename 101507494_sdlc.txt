@@ -1,1 +1,2 @@
 This add to SDLC
+DevOps plays a crucial role in modern software development by bridging the gap between development (Dev) and operations (Ops) teams. 
