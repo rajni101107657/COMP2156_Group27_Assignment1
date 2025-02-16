@@ -1,0 +1,3 @@
+This add to SDLC
+DevOps plays a crucial role in modern software development by bridging the gap between development (Dev) and operations (Ops) teams.
+It enhances collaboration, automation, and efficiency, leading to faster and more reliable software releases. Here’s why learning DevOps is essential in today’s software development cycle
